@@ -1,0 +1,281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<!-- InstanceBeginEditable name="Title/Metatags" -->
+<title>Repertoire of the Practice of the Security Council</title>
+<meta name="dc.title" content="Repertoire of the Practice of the Security Council" />
+<meta name="dc.subject" content="Repertoire of the Practice of the Security Council" />
+<meta name="dc.description" content="This is the site for the United Nations Repertoire of the Practice of the Security Council." />
+<meta name="dc.publisher" content="United Nations" />
+<meta name="dc.date.created" content="20-07-2009" />
+<meta name="dc.format" content="text/html" />
+<meta name="dc.language" content="EN" />
+<meta name="dc.rights" content="United Nations © Copyright 2010" />
+<!-- InstanceEndEditable -->
+<script language="javascript" src="/javascripts/matching_columns.js" type="text/javascript"></script>
+<link href="/css/global_en.css" rel="stylesheet" type="text/css" />
+<link href="/en/sc/repertoire/css/styles.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="Styles" -->
+<style type="text/css">
+#topnav ul li#contents a {
+	background-color:#fff;
+	border-bottom:1px solid #fff;
+}
+#wsscredit{display: none;}
+#topnav ul li#contents a:hover {
+	color:#4f596f;
+}
+
+#mainnav ul li#general_studies a {
+	background-color:#8992a1;
+	color:#fff;
+	font-weight: bold;
+}
+#mainnav ul ul#regiondrop {
+	display:block;
+}
+
+</style>
+<!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4803886-1']);
+  _gaq.push(['_setDomainName', 'un.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-LQCS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-LQCS');</script>
+<!-- End Google Tag Manager -->
+<div id="skiplink">
+  <ul>
+    <li><a href="#mainnav">Skip to main navigation</a> </li>
+    <li><a href="#content">Skip to content</a> </li>
+  </ul>
+</div>
+<div id="main">
+    <div id="brandbar">
+            
+<img src="/en/images/unicon.jpg" height="18" width="21" alt="" class="unicon" align="left"/>
+<span class="welcome"><a href="http://www.un.org/en/index.html">Welcome to the United Nations. It's your world.</a></span>
+<div>
+<div class="search-horizontal">
+	<form id="search-form"> 
+		<input value="" name="q" type="hidden">
+		<input value="10" name="num" type="hidden">
+		<!-- filter query to ensure only repertoire websites are returned from UN collection -->
+				<input value="" id="idfq" name="fq" type="hidden">
+		<input class="textbox" name="q" id="search" placeholder="Search the Repertoire" value="Search the Repertoire" style="width:120px;font-size: 0.9em;" onFocus='document.getElementById("search").value ="";' size="14" type="text">
+		  
+
+		<select id="rbGS" style="display:none;"  name="tpl" onchange="javascript: if (this.value == 'rep' ){document.getElementById(&quot;idfq&quot;).value=&quot;&quot;} else { document.getElementById(&quot;idfq&quot;).value=&quot;url:(\&quot;http://www.un.org/en/sc/repertoire/\&quot;)&quot;}">
+			  <option value="rep" selected>Repertoire</option>
+			  <!--<option value="un">Website</option>-->
+    </select>
+		<!-- Radio buttons to select which collection is used REP or UN 
+		<label>
+			<input type="radio" id="rbGS" name="tpl" value="un" checked="&quot;checked&quot;" style="vertical-align:middle;" onclick="javascript:document.getElementById(&quot;idfq&quot;).value=&quot;url:(\&quot;/web/20160731073103/http://www.un.org/en/sc/repertoire/\&quot;)&quot;"> General Search
+		</label>
+	    	<label title=" Click to search for a documents within repertoire">
+			<input type="radio" id="rbDS" name="tpl" value="rep" style="vertical-align:middle;" onclick="javascript:document.getElementById(&quot;idfq&quot;).value=&quot;&quot;"> Search Repertoire
+		</label>-->
+		<span id="gobtn">
+			<input value="Go" name="Submit" class="button" type="submit">
+		</span>
+  </form>
+</div>
+</div>
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+<script>
+$( "#search-form" ).submit(function( event ) {
+	var searchTerms=$("#search-form .textbox").val()
+	//https://search.un.org/results.php?query="+searchTerms+"&lang=en&tpl=rep
+	window.location.href = "https://search.un.org/results.php?query="+searchTerms+"&lang=en&tpl=rep";
+  event.preventDefault();
+});
+</script>
+    </div>  
+    <div id="languages">
+        <!-- InstanceBeginEditable name="languages" -->
+    <!-- InstanceEndEditable -->
+     </div>
+    <div id="topbanner">
+    	<h1 id="hiddentitle"><span></span>Repertoire of the Practice of the Security Council</h1>
+		<div id="bannertitle"><a href="/en/sc/repertoire/index.shtml"><img src="/en/sc/repertoire/images/repertoire_banner.jpg" alt="" /></a></div>
+	</div>
+ 	<div id="topnav">
+  		<!--Top Navigation for Reprtoire Website-->
+<!--NOTE: If you add or remove links here, you will have to adjust the width% in the style sheet-->
+<ul>
+        <li id="home"><a class="topnavlink" href="/en/sc/repertoire/index.shtml">Home</a> </li>
+        <li id="repertoire"><a class="topnavlink" href="/en/sc/repertoire/structure.shtml">The Repertoire</a> </li>
+		<li id="search"><a class="topnavlink" href="/en/sc/repertoire/search_terms_and_faq.shtml">Search Options and FAQ</a></li>
+		<li id="askus"><a class="topnavlink" href="/en/sc/repertoire/contact.shtml">Ask Us</a></li>
+        <li id="trust_fund"><a class="topnavlink" href="/en/sc/repertoire/trust_fund.shtml">Trust Fund</a></li>
+</ul>
+
+	</div>
+    <div id="navwrapper" class="column">
+        <div id="mainnav">
+        <!--Sub Navigation for Repertoire-->
+<ul id="contents">
+  <li><a href="/en/sc/repertoire/studies/overview.shtml" >Agenda Items</a>
+  <ul id="agenda">
+  <li  id="studyoverview"><a href="/en/sc/repertoire/studies/overview.shtml">Overview</a>
+      <li id="africa"><a href="/en/sc/repertoire/studies/africa.shtml">Africa</a></li>
+      <li id="americas"><a  href="/en/sc/repertoire/studies/americas.shtml">Americas</a></li>
+      <li id="asia"><a  href="/en/sc/repertoire/studies/asia.shtml">Asia</a></li>
+      <li id="europe"><a  href="/en/sc/repertoire/studies/europe.shtml">Europe</a></li>
+      <li id="middle_east"><a  href="/en/sc/repertoire/studies/middle_east.shtml">Middle East</a></li>
+      <li id="general_studies"><a href="/en/sc/repertoire/studies/general_studies.shtml">Thematic Items</a></li>
+    </ul>
+  </li>
+  <li ><a href="/en/sc/repertoire/procedural_issues.shtml" >Procedural Issues</a>
+  <ul id="procedure">
+  <li id="overview"><a href="/en/sc/repertoire/procedural_issues.shtml">Overview </a></li>
+  <li id="provisionalrules"><a href="/en/sc/repertoire/rules/overview.shtml">Provisional Rules of Procedure </a></li>
+  <li id="membership" ><a href="/en/sc/repertoire/admission.shtml">Membership in the United Nations</a> </li>
+  <li id="relations"><a href="/en/sc/repertoire/relations_organs.shtml">Relations with Other UN Organs </a> </li>
+  </ul>
+  </li>
+<li><a href="/en/sc/repertoire/constitutional_issues.shtml" >Constitutional Issues</a>
+  <ul id="constitution">
+<li id="constitutionoverview"><a href="/en/sc/repertoire/constitutional_issues.shtml">Overview</a></li>
+  <li id="constitutionpurpose"><a href="/en/sc/repertoire/principles.shtml">Purposes and Principles of the UN (Chapter I of UN Charter)</a> </li>
+  <li id="constitutionfunction"><a href="/en/sc/repertoire/functions_and_powers.shtml">Functions and Powers of the Security Council (Chapter V of UN Charter)</a></li>
+  <li id="constitutionsettle"><a href="/en/sc/repertoire/settlements.shtml">Pacific Settlement of Disputes (Chapter VI of UN Charter)</a></li>
+  <li id="constitutionaction"><a href="/en/sc/repertoire/actions.shtml">Actions with Respect to Threats to the Peace, Breaches of the Peace, and Acts of Aggression (Chapter VII of UN Charter) </a></li>
+  <li id="constitutionregion"><a href="/en/sc/repertoire/regional_arrangements.shtml">Regional Arrangements (Chapter VIII of UN Charter) </a></li>
+  <li  id="constitutionother"><a href="/en/sc/repertoire/other_chapters.shtml">Other Chapters of the Charter</a></li>
+  </ul>
+  </li>
+  <li><a href="/en/sc/repertoire/subsidiary_organs/overview.shtml" >Subsidiary Organs</a>
+   <ul id="subsidiary">
+  <li id="subsidiaryoverview"><a href="/en/sc/repertoire/subsidiary_organs/overview.shtml">Overview</a></li>
+		<li id="subsidiarycommission"><a href="/en/sc/repertoire/subsidiary_organs/commissions_and_investigations.shtml">Commissions and Investigative Bodies </a></li>
+		<li id="subsidiarycommitteesanction"><a href="/en/sc/repertoire/subsidiary_organs/sanctions_and_other_committees.shtml">Sanctions and Other Committees</a></li>
+		<li id="subsidiarycommitteestanding"><a href="/en/sc/repertoire/subsidiary_organs/committees_standing_and_adhoc.shtml">Standing and Ad hoc Committees</a></li>
+		<li id="subsidiarygroup"><a href="/en/sc/repertoire/subsidiary_organs/groups_and_panels.shtml">Groups and Panels </a></li>
+		<li id="subsidiarytribunal"><a href="/en/sc/repertoire/subsidiary_organs/international_tribunals.shtml">International Tribunals</a></li>
+		<li  id="subsidiarymission"><a href="/en/sc/repertoire/subsidiary_organs/missions.shtml">Missions of the Security Council and the Secretary-General </a></li>
+        		<li  id="subsidiarypbcommission"><a href="/en/sc/repertoire/subsidiary_organs/peace_commission.shtml">Peacebuilding Commission</a> </li>
+
+		        <!--<li  id="subsidiarypeace"><a href="/en/sc/repertoire/subsidiary_organs/peace_offices.shtml">Peacebuilding Offices</a> </li>-->
+        <li id="subsidiarypeacekeep"><a href="/en/sc/repertoire/subsidiary_organs/peacekeeping_missions.shtml">Peacekeeping Missions</a> </li>
+<li id="subsidiarypolitical"><a href="/en/sc/repertoire/subsidiary_organs/special_political_complete.shtml">Political Missions and Offices</a> </li>
+		<li id="subsidiaryrep"><a href="/en/sc/repertoire/subsidiary_organs/representatives.shtml">Representatives, Mediators, Coordinators and Good Offices </a> </li>
+<li id="subsidiaryWG"><a href="/en/sc/repertoire/subsidiary_organs/working_groups.shtml">Working Groups</a> </li>
+		<li  id="subsidiaryproposede"><a href="/en/sc/repertoire/subsidiary_organs/proposed_organs.shtml">Proposed Organs </a></li>
+<li  id="subsidiaryother"><a href="/en/sc/repertoire/subsidiary_organs/other_info.shtml">Other Material on Subsidiary Organs </a> </li>    
+    </ul>
+  </li>
+  
+
+
+  <li><a href="/en/sc/repertoire/data.shtml">Research Tools</a>
+<ul id="data">
+<li id="datatable"><a href="/en/sc/repertoire/data.shtml">Field Missions Mandate table</a></li> 
+<li><a href="http://www.un.org/en/sc/repertoire/data.shtml#rel-2">Graphs on Sanctions Regimes and Other Restrictions </a></li>
+<li><a href="http://www.un.org/en/sc/repertoire/data.shtml#rel-2">Cross-cutting issues research tables</a></li>
+<li><a href="http://www.un.org/en/sc/repertoire/data.shtml#rel-3">Highlights of Security Council Practice</a></li>
+<li><a href="http://www.un.org/en/sc/repertoire/data.shtml#keydocs">Key documents</a></li>
+<li><a href="http://www.un.org/en/sc/repertoire/data.shtml#rel1">Other graphs</a></li>
+<li><a href="http://www.un.org/en/sc/repertoire/data.shtml#rel7">Security Council members</a></li>
+</ul>
+</li>
+</ul>
+  
+
+        </div>
+          <!-- InstanceBeginEditable name="Links" --><!-- InstanceEndEditable -->    
+    </div>
+	<div id="content" class="column">
+        <!-- InstanceBeginEditable name="Content" --> <a class="top" style="text-decoration: none;" href="#" title="Click to go to top">Back to Top</a>
+    <h2> Agenda Items in 1989-1992 (Chapter VIII of the Repertoire)</h2>
+    <p>Chapter  VIII of the <em>Repertoire</em> provides an  overview of the role of the Council in its primary responsibility for the  maintenance of international peace and security on each of the agenda items  that it is seized of. It is a record of the origins of the Council’s  involvement in a particular situation and how it interpreted and applied the  Charter and its Provisional Rules of Procedure in connection with this  situation. </p>
+    <p>This chapter  includes summaries of public discussions in the Council, reports and other  documents considered during Council meetings, as well as the full text  (1946-1999) or summaries (2000-present) of all resolutions, presidential  statements or other decisions taken by the Council on a particular agenda item. </p>
+    <p>While these  studies examine all decisions of the Council and the immediate constitutional  and procedural background to those decisions, discussions that relate to  specific Charter articles or to the Council’s provisional rules of procedure  will generally have been included in case studies in other chapters, for  instance on <a href="/en/sc/repertoire/settlements.shtml">pacific settlement  of disputes</a>, <a href="/en/sc/repertoire/actions.shtml">Chapter VII of the Charter</a>, and <a href="/en/sc/repertoire/regional_arrangements.shtml">regional  arrangements</a>. As a result, more details on specific agenda items  are available in other chapters and, from 2000 onwards, cross-references are  provided.</p>
+    <p>For ease of  reference, agenda items – the topics under consideration by the Council – have  been organized either by region (Africa, Asia, Americas,  Europe and Middle East), or by  general/thematic items (such as “Children in armed conflict”). For a short  description of each agenda item based on the content of the <em>Repertoire, </em>please see the <a href="/en/sc/repertoire/studies/overview.shtml">studies by  region and topic</a> pages. </p>
+	    <p>&nbsp;</p>
+    <table border="0" cellspacing="0" cellpadding="0">
+<tr><td width=“576”><h2>Africa</h2></td></tr>
+    <tr><td width=“576”><h4>1. <a href="/en/sc/repertoire/89-92/Chapter%208/AFRICA/item%2001_Angola_.pdf">Angola</a>&nbsp;</h4></td></tr>
+      <tr><td width=“576”><h4>2. <a href="/en/sc/repertoire/89-92/Chapter%208/AFRICA/item%2002_Liberia_.pdf">Liberia</a>&nbsp;</h4></td></tr>
+     <tr><td width=“576”><h4> 3. <a href="/en/sc/repertoire/89-92/Chapter%208/AFRICA/item%2003_Libya_.pdf">Libyan Arab Jamahiriya</a>&nbsp;</h4></td></tr>
+    <tr><td width=“576”><h4>4.<a href="/en/sc/repertoire/89-92/Chapter%208/AFRICA/item%2004_Mozambique_.pdf">Mozambique</a>&nbsp;</h4></td></tr>
+   <tr><td width=“576”><h4>   5. <a href="/en/sc/repertoire/89-92/Chapter%208/AFRICA/item%2005_Namibia_.pdf">Namibia</a>&nbsp;</h4></td></tr>
+    <tr><td width=“576”><h4>  6. <a href="/en/sc/repertoire/89-92/Chapter%208/AFRICA/item%2006_Somalia_.pdf">Somalia</a>&nbsp;</h4></td></tr>
+    <tr><td width=“576”><h4>  7. <a href="/en/sc/repertoire/89-92/Chapter%208/AFRICA/item%2007_South%20Africa_.pdf">South Africa</a>&nbsp;</h4></td></tr>
+     <tr><td width=“576”><h4> 8. <a href="/en/sc/repertoire/89-92/Chapter%208/AFRICA/item%2008_Western%20Sahara_.pdf">Western Sahara</a> </h4></td></tr>
+    <tr><td width=“576”><h2>Americas</h2></td></tr>
+    <tr><td width=“576”><h4>9. <a href="/en/sc/repertoire/89-92/Chapter%208/AMERICA/item%2009_Central%20America_.pdf">Central America</a>&nbsp;</h4></td></tr>
+    <tr><td width=“576”><h4>  10. <a href="/en/sc/repertoire/89-92/Chapter%208/AMERICA/item%2010_El%20Salv.complaint_.pdf">El Salvador / Nicaragua</a>&nbsp;</h4></td></tr>
+    <tr><td width=“576”><h4>  11. <a href="/en/sc/repertoire/89-92/Chapter%208/AMERICA/item%2011_Cuba%20-%202%20items_.pdf">Cuba</a></h4></td></tr>
+    <tr><td width=“576”><h4>  12. <a href="/en/sc/repertoire/89-92/Chapter%208/AMERICA/item%2012_Haiti_.pdf">Haiti</a></h4></td></tr>
+    <tr><td width=“576”><h4>  13. <a href="/en/sc/repertoire/89-92/Chapter%208/AMERICA/item%2013_Panama%20-%203%20items%20-%20consolidated.pdf">Panama</a> </h4></td></tr>
+    <tr><td width=“576”><h2>Asia</h2></td></tr>
+    <tr><td width=“576”><h4>14. <a href="/en/sc/repertoire/89-92/Chapter%208/ASIA/item%2014_Afghanistan_.pdf">Afghanistan</a></h4></td></tr>
+   <tr><td width=“576”><h4>   15. <a href="/en/sc/repertoire/89-92/Chapter%208/ASIA/item%2015_Cambodia_.pdf">Cambodia</a></h4></td></tr>
+   <tr><td width=“576”><h4>   16. <a href="/en/sc/repertoire/89-92/Chapter%208/ASIA/item%2016_Tajikistan_.pdf">Tajikistan</a></h4></td></tr>
+    <tr><td width=“576”><h2>Europe </h2></td></tr>
+    <tr><td width=“576”><h4>17. <a href="/en/sc/repertoire/89-92/Chapter%208/EUROPE/item%2017_Cyprus_.pdf">Cyprus</a></h4></td></tr>
+    <tr><td width=“576”><h4>  18. <a href="/en/sc/repertoire/89-92/Chapter%208/EUROPE/item%2018_Georgia_.pdf">Georgia</a></h4></td></tr>
+    <tr><td width=“576”><h4>  19. <a href="/en/sc/repertoire/89-92/Chapter%208/EUROPE/item%2019_Nagorny-Karabakh.pdf">Nagorny-Karabakh</a></h4></td></tr>
+    <tr><td width=“576”><h4>  20. <a href="/en/sc/repertoire/89-92/Chapter%208/EUROPE/item%2020_Yugoslavia_.pdf">Former    Yugoslavia</a></h4></td></tr>
+    <tr><td width=“576”><h2>Middle East </h2></td></tr>
+    <tr><td width=“576”><h4>21. <a href="/en/sc/repertoire/89-92/Chapter%208/MIDDLE%20EAST/item%2021_Iran-Iraq_.pdf">Iran    and Iraq</a>&nbsp;</h4></td></tr>
+    <tr><td width=“576”><h4>  22. <a href="/en/sc/repertoire/89-92/Chapter%208/MIDDLE%20EAST/item%2022_Iraq-Kuwait_.pdf">Iraq    and Kuwait</a>&nbsp;</h4></td></tr>
+    <tr><td width=“576”><h4>  23. <a href="/en/sc/repertoire/89-92/Chapter%208/MIDDLE%20EAST/item%2023_Middle%20East_.pdf">Middle    East</a></h4></td></tr>
+    <tr><td width=“576”><h4>  24. <a href="/en/sc/repertoire/89-92/Chapter%208/MIDDLE%20EAST/item%2024_occupied%20arab%20territories_.pdf">Occupied    Arab Territories</a></h4></td></tr>
+    <tr><td width=“576”><h2>Thematic</h2></td></tr>
+    <tr><td width=“576”><h4>25. <a href="/en/sc/repertoire/89-92/Chapter%208/GENERAL%20ISSUES/item%2025_Marking%20of%20explosives.pdf">Marking    of plastic or sheet explosives for the purpose of detection</a></h4></td></tr>
+    <tr><td width=“576”><h4>  26. <a href="/en/sc/repertoire/89-92/Chapter%208/GENERAL%20ISSUES/item%2026_Hostage-taking.pdf">Question    of hostage-taking and abduction</a></h4></td></tr>
+     <tr><td width=“576”><h4> 27. <a href="/en/sc/repertoire/89-92/Chapter%208/GENERAL%20ISSUES/item%2027_UNPKOs_.pdf">UN    peacekeeping operations</a></h4></td></tr>
+     <tr><td width=“576”><h4> 28. <a href="/en/sc/repertoire/89-92/Chapter%208/GENERAL%20ISSUES/Item%2028_SC%20respons%20in%20maint%20IPS.pdf">The    responsibility of the Council in the maintenance of international peace and    security</a></h4></td></tr>
+   <tr><td width=“576”><h4>   29. <a href="/en/sc/repertoire/89-92/Chapter%208/GENERAL%20ISSUES/Item%2029_Agenda%20for%20peace_.pdf">An    agenda for peace: preventive diplomacy, peacemaking and peacekeeping</a></h4></td></tr>
+
+    </table>
+    <!-- InstanceEndEditable -->
+  </div>
+ 	<div id="footer">
+      <ul>
+    <li><a href="/en/aboutun/copyright/index.html">Copyright </a> | </li> 
+        <li><a href="/en/sections/about-website/terms-use/index.html">Terms of Use </a> | </li> 
+        <li><a href="/en/sections/about-website/privacy-notice/index.html">Privacy Notice </a> | </li> 
+        <li><a href="/en/sections/about-website/site-index/index.html">Site Index </a> | </li> 
+        <li><a href="/en/sections/aboutun/fraud-alert/index.html">Fraud Alert </a> | </li> 
+        <li><a href="/en/contact-us/index.html">Contact Us </a></li>
+	
+</ul> 
+    </div>
+</div>
+<div id="wsscredit">
+  UN Web Services Section, <a href="/en/hq/dpi/">Department of Public Information</a>, &copy; <a href="http://www.un.org">United Nations</a> 
+
+</div>
+<script type="text/javascript" src="/common/scripts/jquery/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/common/nav/js/lang_bar.js"></script>
+ 
+</body>
+<!-- InstanceEnd --></html>
